@@ -18,7 +18,7 @@ are expecting you to spend one or two hours on it.
 #### Possible Libraries:
 - Mapping
 	- [Turf](http://turfjs.org/)
-	- [Mapbox Studio](https://www.mapbox.com/mapbox.js/api/v3.0.1/)
+	- [Mapbox Studio](https://www.mapbox.com/studio/)
 	- [MapboxGL](https://www.mapbox.com/mapbox-gl-js/api/)
 	- [Leaflet Cluster](https://github.com/Leaflet/Leaflet.markercluster)
 - Design and Layout
